@@ -1,6 +1,8 @@
-{
-   "userId":55430199,
-   "id":"1",
-   "title":"Niddian Gómez ",
-   "body":"Reciba un cordial saludo"
-}
+[
+   {
+      "userId":55430199,
+      "id":1,
+      "title":"Niddian Gómez ",
+      "body":"Reciba un cordial saludo"
+   }
+]
